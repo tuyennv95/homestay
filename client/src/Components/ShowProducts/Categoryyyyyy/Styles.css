@@ -1,0 +1,29 @@
+/* #demo-mutiple-checkbox-label { 
+    transform: translate(1,1);
+    
+    transform: translate(10px, 25px);
+  }
+  
+ .MuiInput-input{
+     border: 1px solid gray;
+ }
+ .makeStyles-formControl-1{
+     margin:0!important ;
+ }
+label + .MuiInput-formControl {
+     margin: 0!important;
+ }
+ .MuiInput-underline:hover:not(.Mui-disabled):before {
+     border: none!important;
+ }
+ .MuiInput-underline:not(.Mui-disabled):before {
+     border: none!important;
+ }
+ .MuiInputLabel-formControl {
+     top: -7px!important;
+     left: -3px!important;
+     
+    
+    position: relative!important;
+    transform: translate(1, 24px) scale(1);
+ } */
